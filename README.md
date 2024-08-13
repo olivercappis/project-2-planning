@@ -28,7 +28,8 @@ Application
 │ ├── about_you.handlebars
 │ ├── selection.handlebars
 │ ├── guys.handlebars
-
+│ ├── girls.handlebars
+├── server.js
 
 
 ## User story
@@ -46,8 +47,7 @@ WHEN I click the “get playlist” button
 THEN I am presented with different cooking music playlists
 WHEN I click one of the playlists 
 THEN I am taken to a new page with the playlist already made and it is playing
-│ ├── girls.handlebars
-├── server.js
+
 
 
 
