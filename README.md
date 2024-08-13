@@ -32,21 +32,22 @@ Application
 ├── server.js
 
 
-## User story
-I am a learning chef who wants to be able to utilize everything in my kitchen
-I am a college student with not a lot of money who is tired of wasting food
-I am an athlete and I would like to know a better way to meal plan 
+## User Story
+As a user I want a fully functional dating website with my user info, log in info and other user date saved and accessed in a database
 
 ## Acceptance Criteria
-GIVEN when I open the application I am presented with a search bar
-WHEN I put my ingredients into the search bar and hit search
-THEN I am presented with a list of recipes for those specific ingredients
-WHEN I click one of those recipe links
-THEN I am taken to a new page with the fully explained and detailed recipe
-WHEN I click the “get playlist” button 
-THEN I am presented with different cooking music playlists
-WHEN I click one of the playlists 
-HEN I am taken to a new page with the playlist already made and it is playing
+GIVEN I open the application 
+THEN I am prompted to either sign up or sign in
+WHEN I click sign up 
+THEN I am met with a form for an email and password
+WHEN I enter this information 
+THEN I am met with a form to fill in with my personal info
+WHEN I click home on the header then I am taken back to the sign up or sign in page
+THEN I click sign in 
+WHEN I enter my log in information 
+THEN I am asked to choose between male and female users 
+WHEN I make a selection 
+THEN I am shown a list of profiles I am able to interact with 
 
 
 
