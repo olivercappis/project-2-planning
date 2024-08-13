@@ -34,7 +34,7 @@ Application
 ```
 
 ## User Story
-As a user I want a fully functional dating website with my user info, log in info and other user date saved and accessed in a database
+As a user I want a fully functional dating website with my user info, log in info and other user date saved and accessed from a databse and so that i can interact and communicate wwith other userson the website
 
 ## Acceptance Criteria
 GIVEN I open the application 
@@ -48,7 +48,9 @@ THEN I click sign in
 WHEN I enter my log in information 
 THEN I am asked to choose between male and female users 
 WHEN I make a selection 
-THEN I am shown a list of profiles I am able to interact with 
+THEN I am shown a list of profiles I am able to interact with
+WHEN i push the send email or "like" button
+THEN I am able to type a message for the user and send it.
 
 
 
